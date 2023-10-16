@@ -1,6 +1,6 @@
 # reinforcement learning basics
 I learned theoretical basics of reinforcement learning and played with implementation using TF-agents framework.
-![agent playing freeway](https://github.com/kamilabielska/reinforcement_learning/blob/master/trained_agent.gif?raw=true)
+![agent playing freeway](https://github.com/kamilabielska/reinforcement_learning/blob/main/trained_agent.gif?raw=true)
 ***
 **references:**
 - *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition,* Aurélien Géron
